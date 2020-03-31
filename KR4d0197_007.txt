@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五峯集
-#+DATE: 2020-03-31 11:34:18.199369
+#+DATE: 2020-03-31 11:34:18.306421
 #+PROPERTY: ID KR4d0197
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4d0197_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -82,7 +82,7 @@
 　　李子雲白雲圖¶
 ¶
 　　白雲如白月宛宛復離離青霓依澗出玉華映簷垂詎¶
-閡飛花度還同病鶴窺分輝含户牖倒影&KR0262;園池近㸔¶
+閡飛花度還同病鶴窺分輝含户牖倒影𣪚園池近㸔¶
 吁欲落佇立意俱遲坐卧常相對成峰晚更奇¶
 ¶
 　　五峰集卷七¶
